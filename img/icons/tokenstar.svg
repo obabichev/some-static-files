@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="29px" viewBox="0 0 28 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>tokenstar</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tokenstar">
+            <g id="Group-6" fill="#F5F5F5">
+                <g id="logo-BTC" transform="translate(0.000000, 0.697674)">
+                    <circle id="Oval-Copy-33" cx="13.9534884" cy="13.9534884" r="13.9534884"></circle>
+                </g>
+            </g>
+            <g id="Group-3" transform="translate(6.000000, 5.000000)" fill="#23003A">
+                <path d="M7.46605107,9.33370985 L9.67206852,8.41381611 L7.46499908,7.49730737 L7.46605107,9.33370985 Z M8.3437684,10.6322004 C7.11236185,10.6322004 6.11358292,9.64031358 6.11358292,8.41499948 C6.11358292,7.18949275 7.11236185,6.19763341 8.3437684,6.19763341 C9.5766422,6.19763341 10.5753934,7.18949275 10.5753934,8.41499948 C10.5753934,9.64031358 9.5766422,10.6322004 8.3437684,10.6322004 L8.3437684,10.6322004 Z M16.6875783,6.0454186 L10.3134763,6.0454186 L8.3437684,0.0196274821 L6.37417125,6.0454186 L1.38419387e-05,6.0454186 L5.15735411,9.77075983 L3.18775696,15.796661 L8.3437684,12.07165 L13.5011363,15.796661 L11.5315392,9.77075983 L16.6875783,6.0454186 Z" id="Fill-1"></path>
+            </g>
+        </g>
+    </g>
+</svg>

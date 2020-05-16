@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>telegram_select</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="15" cy="15" r="15"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="telegram_select">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#00ACED" xlink:href="#path-1"></use>
+            <path d="M21.2847347,7.59918205 L5.34030328,13.7094496 C4.25207017,14.1432627 4.25852395,14.7463296 5.14194791,15.0152418 L9.11853728,16.2484378 L10.6400737,20.8833645 C10.8250478,21.3906561 10.7338636,21.5918552 11.2700166,21.5918552 C11.6837809,21.5918552 11.8673344,21.4044229 12.0977823,21.1807507 C12.2443284,21.0382647 13.1144291,20.1977588 14.0859589,19.2592435 L18.2223577,22.2957574 C18.9835108,22.7129796 19.5331045,22.4968381 19.722638,21.5933848 L22.4378628,8.8804423 C22.7158571,7.77308407 22.0129666,7.27079279 21.2847347,7.59918205 Z M9.74261797,15.9651125 L18.7058724,10.3464877 C19.1533271,10.0768698 19.5635978,10.2218271 19.226748,10.5189188 L11.551859,17.3990951 L11.2530234,20.5659176 L9.74261797,15.9651125 L9.74261797,15.9651125 Z" id="path9" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

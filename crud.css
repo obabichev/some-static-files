@@ -1,0 +1,210 @@
+.crudeditform
+{
+	width: 100%;
+	font-size: 16px;
+}
+
+.crudeditform input, .crudeditform textarea, .crudeditform select
+{
+	font-size: 100%;
+}
+
+.crudeditform p
+{
+	margin: 0 0 .5em 0;
+}
+
+.crudeditform th
+{
+	text-align: left;
+	font-weight: 300;
+	line-height: 1.5em;
+	padding: .5em .5em .5em 0;
+	white-space: nowrap;
+	width: 1%;
+}
+
+.crudeditform.view th
+{
+	line-height: 1.5em;
+	padding: .3em .3em .3em 0;
+	font-weight: bold;
+}
+
+.crudeditform td
+{
+	padding: 0 2px 2px 0;
+	vertical-align: middle;
+}
+
+.crudeditform.view td
+{
+	line-height: 1.5em;
+	padding: .3em .3em .3em 0;
+	vertical-align: middle;
+}
+
+.crudeditform td.nofield
+{
+	line-height: 2.5em;
+}
+
+.crudeditform h3
+{
+	margin: 5px 0;
+	font-size: 20px;
+}
+
+.crudeditform h4
+{
+	margin: 5px 0;
+	font-size: 16px;
+}
+
+.crudeditform td input[type="text"], .crudeditform td input[type="password"],
+.crudeditform td input:not([type]), .crudeditform textarea, .crudeditform select
+{
+	width: 100%;
+}
+
+.crudform .crudactions
+{
+	margin: 0 0 20px 0;
+}
+
+.crudform .crudactions > *
+{
+	margin-right: 20px !important;
+}
+
+.crudform .crudsearch
+{
+	display: inline;
+}
+
+.crudform .crudeditform label.checkbox
+{
+	margin-right: 20px;
+}
+
+.crudeditform .filefield a
+{
+	margin-right: 20px;
+	color: #0040e0;
+}
+
+.crudeditform .filefield input[type="file"]
+{
+	margin-right: 20px;
+}
+
+.crudeditform textarea
+{
+	font-family: Consolas, monospace;
+	height: 100px;
+}
+
+.crudform .admintable
+{
+	font-size: 16px;
+	line-height: 22px;
+	width: 100%;
+}
+
+.crudform .admintable td, .crudform .admintable th
+{
+	padding: 5px;
+	text-align: left;
+}
+
+.crudform .admintable tr:nth-child(odd)
+{
+	background: #e8eef2;
+}
+
+.crudform .admintable tr.head
+{
+	background: #d8e0e8;
+}
+
+.crudform .admintable .clickable
+{
+	cursor: pointer;
+}
+
+.crudform .admintable .clickable:hover
+{
+	background: #ffe8d0;
+}
+
+.crudform .admintable td.empty
+{
+	text-align: center;
+	background: #e8eef2;
+}
+
+.crudform p.success
+{
+	padding: 10px;
+	background: #40c040;
+	color: white;
+	margin-bottom: 15px;
+}
+
+.crudform p.error
+{
+	padding: 10px;
+	background: #c00040;
+	color: white;
+	margin-bottom: 15px;
+}
+
+.crudform .no
+{
+	color: #a00000;
+}
+
+.crudform .yes
+{
+	color: #00a000;
+}
+
+.crudform p.error a
+{
+	color: inherit;
+}
+
+.crudform .button
+{
+	height: 2.5em;
+	vertical-align: middle;
+	box-sizing: border-box;
+	padding: .25em .5em;
+	background: #0080c0;
+	/*background: #ff5500;*/
+	cursor: pointer;
+	color: white;
+	border: 0;
+	font-size: 16px;
+	font-weight: bold;
+	text-transform: uppercase;
+	display: inline-block;
+	text-decoration: none;
+	line-height: 2em;
+}
+
+.crudform .button:hover
+{
+	/*background: #f16b30;*/
+	background: #306bf1;
+}
+
+.crudform .button.delete
+{
+	background: #d00;
+}
+
+.crudform .button.delete:hover
+{
+	background: #f00;
+}

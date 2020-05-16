@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="29px" viewBox="0 0 28 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>logo ETH</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo-ETH" transform="translate(0.000000, 0.697674)">
+            <circle id="Oval-Copy-33" fill="#F5F5F5" cx="13.9534884" cy="13.9534884" r="13.9534884"></circle>
+            <g id="if_ETH_1175230" transform="translate(8.372093, 5.023256)" fill="#3E62AE" fill-rule="nonzero">
+                <polygon id="Shape" points="5.65848542 12.7690203 5.65848542 7.11000063 0.0130415984 9.5312655"></polygon>
+                <polygon id="Shape" points="5.65848542 6.72094959 5.65848542 0.0762908555 0.194963642 9.06406482"></polygon>
+                <polygon id="Shape" points="6.02241205 0.0735430917 6.02241205 6.72094959 11.5626977 9.09719962"></polygon>
+                <polygon id="Shape" points="6.02241205 7.11000063 6.02241205 12.7691819 11.6718179 9.53288183"></polygon>
+                <polygon id="Shape" points="5.65848542 17.8124601 5.65848542 13.2607892 0.051010809 10.0463096"></polygon>
+                <polygon id="Shape" points="6.02241205 17.8124601 11.6298867 10.0463096 6.02241205 13.2607892"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
